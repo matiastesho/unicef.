@@ -1,0 +1,193 @@
+ 
+body {
+    background-color: #00C5FF ;
+    font-family: 'Kanit', sans-serif;
+    font-size:20px;
+    margin: 0px
+}
+  h2{ text-align:center;
+    color: #ffffff
+}
+.pie {
+    background-color:#00B6FF;
+    color:#ffffff;
+    padding: 10px ;
+    text-align: center;
+}
+.portada{
+    background-size: cover;
+    padding: 0px;
+} 
+
+}
+.btn {
+    text-transform: uppercase;
+    padding-left:2rem;
+    padding-right:2rem;
+    color: #00C5Ff;
+    background-size: center;
+}
+
+.btn-primary {
+    background-color:#00C5FF;
+    border-color:#00C5FF;
+    background-size: center;
+}
+
+
+.btn-primary:hover {
+    background-color:#00C5FF ;
+    border-color: #00C5FF;
+}
+
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: deeppink!important;
+    border-color: deeppink!important;
+}
+
+
+section{
+    padding: 1rem;
+}
+#FormularioContacto {
+
+    border:2px solid #00C5FF;
+    background-color:rgba(0, 0, 0, 0);
+    width:400px;
+    padding:20px 25px;
+
+}
+
+#FormularioContacto input, 
+#FormularioContacto textarea {
+    display: block ;
+    width: 100% ;
+    padding:8px 16px;
+    font-family: inherit ;
+    margin-top:15px;
+    border-width: 0;
+    border-bottom: 2px solid #8AD538;
+}
+
+#FormularioContacto input[type=submit]{
+    background-color:#8AD538;
+    color:white; 
+    
+}
+
+
+#FormularioContacto label {
+    display: block;
+    margin-bottom:15px;
+}
+#FormularioContacto input:focus, 
+#FormularioContacto textarea:focus {
+    outline: 3px dashed #00C5FF;
+    outline-offset: 10px;
+   
+}
+#FormularioContacto input:focus:invalid, 
+#FormularioContacto textarea:focus:invalid {
+    background-color: lightcoral;
+}
+
+#FormularioContacto input:focus:valid, 
+#FormularioContacto textarea:focus:valid {
+    background-color: #00C5FF ;
+}     
+
+
+@media {
+    
+    .navbar-brand {
+        position: absolute;
+        top: -50px;
+    }
+    
+    .portada {
+        
+        min-height: 800px;
+    }
+    
+    .portada p {
+        max-width: 100px;
+    }
+    
+    .ilustracion {
+        position: relative;
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+}
